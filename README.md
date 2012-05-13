@@ -1,4 +1,4 @@
-gameolith-desktop
+Gameolith Desktop
 =================
 
-Official git repository for the Gameolith Desktop app.
+This repository will hold the official source code for the Gameolith Desktop client.
